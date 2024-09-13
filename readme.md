@@ -5,7 +5,7 @@ I'm a tech person interested in full-stack and blockchain
  
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/g-vishnu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjayjangra)
  
 # 💻 Tech Stack:
 
@@ -13,15 +13,15 @@ I'm a tech person interested in full-stack and blockchain
  
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=VishnuGaneshan&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Sanjayjangra&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=VishnuGaneshan&theme=radical&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sanjayjangra&theme=radical&hide_border=false)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VishnuGaneshan&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjayjangra&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
  
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=VishnuGaneshan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Sanjayjangra&theme=radical&no-frame=false&no-bg=false&margin-w=4)
  
 ### ✍️ Random Dev Quote
 
@@ -29,9 +29,9 @@ I'm a tech person interested in full-stack and blockchain
  
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=VishnuGaneshan&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Sanjayjangra&limit=5&theme=dark&combine_all_yearly_contributions=true)
  
 ---
 
-[![](https://visitcount.itsvg.in/api?id=VishnuGaneshan&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Sanjayjangra&icon=0&color=0)](https://visitcount.itsvg.in)
  
