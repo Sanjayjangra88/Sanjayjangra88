@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Vishnu G
+# 👋 Hi, I’m Sanjay jangra
 
 I'm a tech person interested in full-stack and blockchain
  
